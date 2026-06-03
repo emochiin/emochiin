@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Emirkan 👋
 
-<!--
-**emochiin/emochiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student (Media Informatics) | Ex-Bank Clerk
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- JavaScript / HTML / CSS with Bootstrap
+- React.js & Express
+- PostgreSQL
+- Python with OpenCV, NumPy, FFmpeg, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Java (incl. JUnit & Mockito)
+- Web Development (MVC, REST)
+- Python for Audio / Video / Graphics Programming
+
+## 🔭 What im interested in
+- Cloud
+- IT Security
+- Web & Software Development
+
+## 📫 Looking For
+A working student position 😵‍💫 in web or software development
+
+## ⚡ Fun Fact
+I trained as a bank clerk and then decided to start over with my childhood dream in computer science 😶
