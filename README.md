@@ -3,17 +3,21 @@
 Computer Science Student (Media Informatics) | Ex-Bank Clerk
 
 ## 🌱 Currently Learning
-- JavaScript / HTML / CSS with Bootstrap
-- React.js & Express
-- PostgreSQL
-- Python with OpenCV, NumPy, FFmpeg, Matplotlib
+- JWT-based Authentication
+- Cloud Fundamentals
+- IT Security Basics
 
 ## 💻 Skills
 - Java (incl. JUnit & Mockito)
 - Web Development (MVC, REST)
+- JavaScript / HTML / CSS with Bootstrap
+- React.js & Express
+- Node.js
+- PostgreSQL (Schema Design, Relations, ENUMs)
+- REST API Integration (consuming & building)
 - Python for Audio / Video / Graphics Programming
 
-## 🔭 What im interested in
+## 🔭 What I'm interested in
 - Cloud
 - IT Security
 - Web & Software Development
